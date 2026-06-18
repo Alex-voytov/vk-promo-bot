@@ -20,5 +20,5 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/yourusername/vk-promo-bot.git
+git clone https://github.com/Alex-voytov/vk-promo-bot.git
 cd vk-promo-bot
