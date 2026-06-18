@@ -1,0 +1,16 @@
+venv/
+env/
+.env
+*.env
+*.env.local
+*.db
+*.sqlite
+*.log
+logs/
+promocodes.txt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
